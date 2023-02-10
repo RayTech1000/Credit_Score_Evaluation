@@ -5,4 +5,4 @@ This project uses data set of people and their credit information. Data includes
 
 Predictive models include linear regression, KNN regressors, and lasso. At the end, an input feature is included to predict the Credit rating of a person.
 
-Data set is too large for Github - kaggle link: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
+Data set is too large for Github, zipfile uploaded instead. - kaggle link: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
